@@ -25,15 +25,8 @@ This section contains the scripts to reproduce the figures in the paper.
 
 | Figure | Link                                                  |
 |--------|-------------------------------------------------------|
-| smFISH EDS16     | [Notebook](/processing_pipelines/smFISH_processing/01_quantify_sid_expression.ipynb)         |
-| bacterial analysis     | [Notebook](/figures/bacteria/bacteria.ipynb) |
-| Quality control metrics     | [Notebook](/figures/qc_metrics/qc_metrics.ipynb)     |
-| Joint embedding and spatial plotting  | [Notebook](/figures/joint_embedding_and_spatial_clusters/joint_embedding_and_spatial_clusters.ipynb)    |
-| Celltype assignments accuracy  | [Notebook](/figures/celltype_assignment_accuracy/celltype_assignments.ipynb)     |
-| snMultiome pseudotime and clusters   | [Notebook](/figures/seq_clusters_and_pseudotime_figures/seq_clusters_and_pseudotime_figures.ipynb)    |
-| spatial pseudotime and clusters   | [Notebook](/figures/spatial_clusters_and_pseudotime/spatial_clusters_and_pseudotime.ipynb)    |
-| RNA/ATAC/Chromvar imputation      | [Notebooks](/figures/imputation)   |
-| Spatial Differential Expression   | [Notebooks](/figures/spatial_differential_expression/HowWeFoundBON3.ipynb)     |
+| smFISH EDS16     | [Notebook](/figure_scripts/01_quantify_sid_expression.ipynb)         |
+| bacterial analysis     | [Notebook](/figure_scripts/bacteria.ipynb) |
 
 
 ## Contact
