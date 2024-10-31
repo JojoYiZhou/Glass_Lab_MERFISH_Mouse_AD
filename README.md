@@ -5,11 +5,11 @@
 ## In this repository, we show how to analyze MERFISH (MERSCOPE/VIZGEN) datasets on  the brain samples of AD-pathology mouse models. Additionally, we provide our data processing pipelines to reproduce the figures for our submitted 2024 manuscript.
 
 ## Abstract
-Plants lack specialized and mobile immune cells, requiring any cells–regardless of cell type–that encounter pathogens to mount immune responses and communicate with surrounding cells for successful defense. However, the diversity, spatial organization, and function of cellular immune states in pathogen-infected plants are scarcely understood. Here, we comprehensively identify cell states in Arabidopsis thaliana leaves infected by immune-triggering and -suppressive bacterial pathogens by integrating time-resolved single-cell transcriptomics, epigenomics, and spatial transcriptomics. We reveal cell state-specific gene regulatory logic involving transcription factors (TFs), putative cis-regulatory elements, and target genes associated with disease and immunity. We identify a rare cell population that emerges at the nexus of immune-active hotspots designated as the Primary IMmunE Responder (PRIMER) cells. PRIMER cells show non-canonical immune signatures, exemplified by the expression of a previously uncharacterized TF, GT-3a, and high accessibility of this TF in the genome. We demonstrate that GT-3a negatively regulates plant immune responses against bacterial pathogens. PRIMER cells are surrounded by cells that activate genes for long-distance cell-to-cell immune signaling, suggesting potential interactions between these cell states for propagating immune responses across the leaf. Our molecularly defined spatiotemporal atlas serves as a discovery platform for immune cell states with functional and regulatory insights.
+The development of Alzheimer’s disease (AD) is driven by the progressive accumulation of amyloid- (A), hyperphosphorylated tau, and eventually synaptic loss and neurodegeneration. These features, alongside other factors such as myelin changes, are sensed by microglia, resulting in the acquisition of distinct microglia phenotypes proposed to have protective or pathogenic consequences1-4. Altering these phenotypes for therapeutic purposes is a major goal, however, this objective is limited by a lack of understanding of the mechanisms that link the detection of neuropathology to specific transcriptional outcomes. Here, we address this problem by defining the gene expression profiles, spatial locations and open chromatin landscapes in the context of A or tau/APOE4-induced pathology.  
 
 ## Spatial Data Download
 
-The data needed to reproduce our results is available for download [here](http://neomorph.salk.edu/download/Nobori_etal_merfish).
+The data needed to reproduce our results is available for download [here](http://zenodo).
 
 ## Processing
 We have a spatial processing pipeline with segmentation and processing Jupyter notebooks to create the adata objects needed for figure creation.
@@ -25,10 +25,11 @@ This section contains the scripts to reproduce the figures in the paper.
 
 | Figure | Link                                                  |
 |--------|-------------------------------------------------------|
-| smFISH EDS16     | [Notebook](/figure_scripts/01_quantify_sid_expression.ipynb)         |
-| bacterial analysis     | [Notebook](/figure_scripts/bacteria.ipynb) |
-
+| Global Brain Clustering     | [Notebook](/figure_scripts/expression.ipynb)         |
+| Microglia Clustering    | [Notebook](/figure_scripts/a.ipynb) |
+| Microglia Spatial    | [Notebook](/figure_scripts/a.ipynb) |
+| Microglia Pathology Trajectory    | [Notebook](/figure_scripts/a.ipynb) |
 
 ## Contact
 
-- Tatsuya Nobori: :envelope: Tatsuya.Nobori@tsl.ac.uk
+- Yi (Joy) Zhou: :envelope: yiz592@ucsd.edu
