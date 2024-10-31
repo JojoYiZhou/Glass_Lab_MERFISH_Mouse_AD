@@ -14,8 +14,8 @@ The data needed to reproduce our results is available for download [here](http:/
 ## Processing
 We have a spatial processing pipeline with several ordered Jupyter notebooks to create the processed objects needed for figure creation.
 
-Processing of .
-   [MERSCOPE processing](/processing_pipelines/MERFISH_processing)
+Processing of AD-pathology mouse model MERSCOPE data.
+   [MERSCOPE processing](/processing_pipeline)
 
 ## Figures
 
