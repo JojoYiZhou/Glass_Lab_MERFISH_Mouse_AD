@@ -12,7 +12,7 @@ Plants lack specialized and mobile immune cells, requiring any cells–regardles
 The data needed to reproduce our results is available for download [here](http://neomorph.salk.edu/download/Nobori_etal_merfish).
 
 ## Processing
-We have a spatial processing pipeline with several ordered Jupyter notebooks to create the processed objects needed for figure creation.
+We have a spatial processing pipeline with segmentation and processing Jupyter notebooks to create the adata objects needed for figure creation.
 
 Processing of AD-pathology mouse model MERSCOPE data.
    [MERSCOPE processing](/processing_pipeline)
