@@ -25,7 +25,7 @@ This section contains the scripts to reproduce the figures in the paper.
 
 | Figure | Link                                                  |
 |--------|-------------------------------------------------------|
-| Global Brain Clustering     | [Notebook](/figure_scripts/expression.ipynb)         |
+| Global Brain Clustering (Fig1a&ExtendFig1)     | [Notebook](/figure_scripts/Fig1a_ExtFig1.ipynb) |
 | Microglia Clustering    | [Notebook](/figure_scripts/a.ipynb) |
 | Microglia Spatial    | [Notebook](/figure_scripts/a.ipynb) |
 | Microglia Pathology Trajectory    | [Notebook](/figure_scripts/a.ipynb) |
