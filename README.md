@@ -1,4 +1,4 @@
-# Transcriptional circuitry underlying neuropathology-associated microglia phenotypes 
+<h1 align="center"> Transcriptional circuitry underlying neuropathology-associated microglia phenotypes </h1>
 ## Molecular signatures and spatial organisation of AD-pathology-associated microglia under different conditions
 ![Spatial Logo](images/logo_1-01.png)
 ## Description:
